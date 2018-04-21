@@ -1,0 +1,82 @@
+PODS:
+  - Alamofire (4.7.2)
+  - DynamicBlurView (2.0.2)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.7.0):
+    - GoogleMaps (= 2.7.0)
+    - GooglePlaces (= 2.7.0)
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - IBAnimatable (5.0.0)
+  - ImagePicker (3.0.0)
+  - ImageSlideshow (1.5.3):
+    - ImageSlideshow/Core (= 1.5.3)
+  - ImageSlideshow/Core (1.5.3)
+  - ImageSlideshow/Kingfisher (1.5.3):
+    - ImageSlideshow/Core
+    - Kingfisher (> 3.0)
+  - IQKeyboardManagerSwift (6.0.1)
+  - Kingfisher (4.7.0)
+  - PopupDialog (0.7.1):
+    - DynamicBlurView (~> 2.0)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+  - SKActivityIndicatorView (0.1.0)
+  - SwiftyPickerPopover (6.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.5)
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - IBAnimatable
+  - ImagePicker
+  - ImageSlideshow
+  - ImageSlideshow/Kingfisher
+  - IQKeyboardManagerSwift
+  - PopupDialog
+  - SDWebImage
+  - SKActivityIndicatorView (~> 0.1.0)
+  - SwiftyPickerPopover
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - DynamicBlurView
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - IBAnimatable
+    - ImagePicker
+    - ImageSlideshow
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - PopupDialog
+    - SDWebImage
+    - SKActivityIndicatorView
+    - SwiftyPickerPopover
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  DynamicBlurView: aa6db4defc6e537eb86fc5e58dd3991666178399
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlacePicker: 59ea44db173c58486ad6123993e81feefcbce9c3
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  IBAnimatable: aa2286a9cf8fb4ae2e1be85c5287ae56143b024f
+  ImagePicker: 973953c25960fe04729a7082a56194321c6762d2
+  ImageSlideshow: 24a1184909f589379ba2527ebcc77996881bb1f2
+  IQKeyboardManagerSwift: 748d06e0f8134fc28934031e6377da3cf3d4f38c
+  Kingfisher: da6b005aa96d37698e3e4f1ccfe96a5b9bbf27d6
+  PopupDialog: 39598b7d41719f5c025b4b70e62728bae7734fef
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+  SKActivityIndicatorView: f46936f760d33eb8235333242269bf01cc9248ae
+  SwiftyPickerPopover: f1bb928efd60e4c754aa957c1bb67372465e9ccb
+
+PODFILE CHECKSUM: cee72a5eeb12dc2474a8fc498dd268e2d2abb217
+
+COCOAPODS: 1.5.0
